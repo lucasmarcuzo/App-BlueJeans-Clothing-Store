@@ -10,7 +10,7 @@
 ## 🛠 Tecnologias utilizadas:
 
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-8c2b83?style=flat&logo=PowerApps)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
 ## 📱 Contato:
 
