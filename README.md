@@ -6,7 +6,7 @@
 </p>
 
 [![Power Apps](https://img.shields.io/badge/PLAY-Application-8c2b83?style=flat&logo=PowerApps&link=https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/17016d4e-94b1-441d-a24c-087f10eb01bf?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=a0af6d29-c52c-4e93-bab5-03462b4556c5&source=sharebutton&sourcetime=1707064344853)](https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/17016d4e-94b1-441d-a24c-087f10eb01bf?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=a0af6d29-c52c-4e93-bab5-03462b4556c5&source=sharebutton&sourcetime=1707064344853) 
-[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=flat&logo=android&link=https://github.com/lucasmarcuzo/App-BlueJeans-Clothing-Store/raw/main/App-BlueJeans-Clothing-Store/appApp-BlueJeans-Clothing-Store.apk)](https://github.com/lucasmarcuzo/App-BlueJeans-Clothing-Store/raw/main/App-BlueJeans-Clothing-Store/appApp-BlueJeans-Clothing-Store.apk) 
+[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=flat&logo=android&link=https://github.com/lucasmarcuzo/App-BlueJeans-Clothing-Store/raw/main/app/BlueJeans-Clothing-Store-App.apk)](https://github.com/lucasmarcuzo/App-BlueJeans-Clothing-Store/raw/main/app/BlueJeans-Clothing-Store-App.apk) 
 
 
 ## 🛠 Tecnologias utilizadas:
