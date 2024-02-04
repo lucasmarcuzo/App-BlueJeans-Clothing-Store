@@ -39,6 +39,6 @@ Este projeto é licenciado sob a licença:
 ![GPL-3.0 license](https://img.shields.io/github/license/lucasmarcuzo/App-BlueJeans-Clothing-Store)
 
 <div align="right"> <h3> - Obrigado pela visita! ✌🏻 </h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Ap-BlueJeans-Clothing-Store"> </h3>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=App-BlueJeans-Clothing-Store"> </h3>
 
 
